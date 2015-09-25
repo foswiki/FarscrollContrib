@@ -1,0 +1,10 @@
+*.gz
+*.swp
+pub/System/FarscrollContrib/jquery.farscroll.js
+FarscrollContrib.md5
+FarscrollContrib.sha1
+FarscrollContrib.tgz
+FarscrollContrib.txt
+FarscrollContrib.zip
+FarscrollContrib_installer
+FarscrollContrib_installer.pl

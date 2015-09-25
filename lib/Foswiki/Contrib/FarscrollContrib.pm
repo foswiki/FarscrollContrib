@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 our $VERSION = '1.01';
-our $RELEASE = '1.01';
+our $RELEASE = '15 Mar 2014';
 our $SHORTDESCRIPTION = 'Clone a scrollbar far away';
 our $NO_PREFS_IN_TOPIC = 1;
 
