@@ -1,6 +1,6 @@
 %META:TOPICINFO{author="ProjectContributor" comment="reprev" date="1326128525" format="1.1" reprev="2" version="2"}%
 ---+!! %TOPIC%
-%SHORTDESCRIPTION%
+%FORMFIELD{"Description"}%
 
 %TOC%
 
@@ -72,7 +72,6 @@ here goes some text
 </verbatim>
 
 ---++ Installation Instructions
-
 %$INSTALL_INSTRUCTIONS%
 
 ---++ Dependencies
@@ -84,14 +83,11 @@ here goes some text
 |  15 Mar 2014: | fixed syntax error in contrib stub |
 |  09 Jan 2012: | initial version |
 
-<!--
-   * Set SHORTDESCRIPTION = %$SHORTDESCRIPTION%
--->
-
 %META:FORM{name="PackageForm"}%
 %META:FIELD{name="Author" title="Author" value="Michael Daum"}%
-%META:FIELD{name="Copyright" title="Copyright" value="&copy; 2012-2015 Michael Daum http://michaeldaumconsulting.com; &copy; 2011 Sebastian Senf"}%
-%META:FIELD{name="Home" title="Home" value="http://foswiki.org/Extensions/FarscrollContrib"}%
+%META:FIELD{name="Copyright" title="Copyright" value="&copy; 2012-2022 Michael Daum; &copy; 2011 Sebastian Senf"}%
+%META:FIELD{name="Description" title="Description" value="%25$SHORTDESCRIPTION%25"}%
+%META:FIELD{name="Home" title="Home" value="https://foswiki.org/Extensions/FarscrollContrib"}%
 %META:FIELD{name="License" title="License" value="Dual licensed under the MIT and GPL licenses. http://www.opensource.org/licenses/mit-license.php, http://www.gnu.org/licenses/gpl.html"}%
 %META:FIELD{name="Release" title="Release" value="%$RELEASE%"}%
 %META:FIELD{name="Repository" title="Repository" value="https://github.com/foswiki/FarscrollContrib"}%

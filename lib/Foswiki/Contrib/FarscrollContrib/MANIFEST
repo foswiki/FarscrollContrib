@@ -1,3 +1,4 @@
+!noci
 data/System/FarscrollContrib.txt 0644
 lib/Foswiki/Contrib/FarscrollContrib/Config.spec 0644
 lib/Foswiki/Contrib/FarscrollContrib/Core.pm 0644
