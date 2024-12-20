@@ -104,7 +104,7 @@ jQuery(function($) {
   };
 
   $(".jqFarscroll, pre").livequery(function() {
-    var $this = $(this), opts = $.extend({}, $this.metadata());
+    var $this = $(this), opts = $.extend({}, $this.data());
     $this.farscroll(opts);
   });
 });
